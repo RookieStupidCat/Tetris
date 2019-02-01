@@ -11,3 +11,9 @@
 
 #### 使用说明
 找到Main函数运行即可（暂停操作没有做，其他的基本OK了，欢迎提交bug）
+
+#### 图片示例
+
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0201/191143_8c7e5036_2330136.png "游戏中")
+
+![输入图片说明](https://images.gitee.com/uploads/images/2019/0201/191211_6e8cbeec_2330136.png "封顶结束")
